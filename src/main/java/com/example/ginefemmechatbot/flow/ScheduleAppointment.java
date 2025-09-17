@@ -1,0 +1,5 @@
+package com.example.ginefemmechatbot.flow;
+
+public class ScheduleAppointment {
+
+}
